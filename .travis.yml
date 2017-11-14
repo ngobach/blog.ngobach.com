@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - 8
+before_install:
+  - npm i -g hexo
+script:
+  - hexo generate
+deploy:
+  provider: surge
+  project: ./dist
+  domain: blog.ngobach.com
+  skip_cleanup: true
+cache:
+  directories:
+    - './node_modules'
