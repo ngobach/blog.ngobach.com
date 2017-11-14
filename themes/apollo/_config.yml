@@ -1,0 +1,21 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    Facebook: http://fb.me/r4yqu4z4
+    GitHub: https://github.com/thanbaiks
+    About Me: /about/
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo:
+
+# Analytics
+# google-analytics:
+#ga: UA-65933410-1
+
+# Copyright Infomation
+startyear: 2017
