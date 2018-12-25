@@ -2,7 +2,7 @@
 title: Cài đặt CMS 1.2
 s: cai-dat-cms-1-2
 date: 2017-03-06 23:51:35
-tags:
+tags: [cms]
 ---
 
 Bài viết hướng dẫn cách cài đặt **CMS** *(Contest Management System)* trên **Ubuntu 16.04**.

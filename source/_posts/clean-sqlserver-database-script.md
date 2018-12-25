@@ -2,7 +2,7 @@
 title: SQL Server database truncating script
 s: sqlserver-database-truncating-script
 date: 2017-05-10 17:51:45
-tags: sqlserver
+tags: [sqlserver]
 ---
 
 Here is a script that can truncate your database completely.

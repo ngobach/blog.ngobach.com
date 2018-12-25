@@ -2,9 +2,7 @@
 title: 'Never be alone :('
 s: never-be-alone
 date: 2017-06-29 00:13:14
-tags: 
-  - music
-  - love
+tags: [music, love]
 ---
 You, you're gonna break my heart
 You're gonna tear it apart

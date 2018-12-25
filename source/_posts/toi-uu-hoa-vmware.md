@@ -2,7 +2,7 @@
 title: Tối ưu hóa VMWare
 s: toi-uu-hoa-vmware
 date: 2017-03-06 23:54:30
-tags:
+tags: [vmware, hackintosh, vm]
 ---
 
 Dưới đây là 1 số tham số có thể thêm vào file **.vmx** để tăng hiệu năng của máy ảo VMWare một cách đáng kể.
