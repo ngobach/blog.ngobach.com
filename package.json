@@ -9,6 +9,9 @@
     "start": "hexo server",
     "build": "hexo generate"
   },
+  "engines": {
+    "node": "12.x.x"
+  },
   "dependencies": {
     "hexo": "^3.2.0",
     "hexo-browsersync": "^0.2.0",

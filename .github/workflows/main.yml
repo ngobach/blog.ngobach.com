@@ -27,7 +27,7 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.4.1
         with:
-          node-version: 16.x
+          node-version: 12.x
           cache: yarn
       - run: yarn && yarn build && yarn surge ./dist blog.ngobach.com
         env:
